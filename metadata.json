@@ -1,0 +1,5 @@
+{
+  "name": "Glowry Unisex Salon",
+  "description": "Premium unisex salon in Nagpur offering professional hair, skin, and beauty services with an elegant appointment booking experience.",
+  "requestFramePermissions": ["geolocation"]
+}
